@@ -1,5 +1,6 @@
 # discord_remote_for_spotify
-I wrote this a while back when spotify didn't offer the party/group-feature but I think just released the ```/v1/me/player/queue``` endpoint. (Player-Docs: https://developer.spotify.com/documentation/web-api/reference/player/)
+I wrote this a while back when spotify didn't offer the party/group-feature but I think just released the ```/v1/me/player/queue``` endpoint. (Player-Docs: https://developer.spotify.com/documentation/web-api/reference/player/) <br>
+*So this is a fairly old project!*
 
 ## The idea behind it
 Both scripts would run on the same computer and someone logs into his/her spotify-account (http://127.0.0.1/auth) on the server (where all credentials would be stored localy only). This person would also control via spotify-connect on which device the music would be played. <br> 
